@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/tinymce",
+    "name": "super-eggs/tinymce",
     "description": "TinyMCE extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor"],
-    "homepage": "https://github.com/laravel-admin-ext/tinymce",
+    "homepage": "https://github.com/super-eggs/tinymce",
     "license": "MIT",
     "authors": [
         {
