@@ -11,7 +11,7 @@ TinyMCE extension for laravel-admin
 
 首先
 
-```composer require laravel-admin-ext/tinymce```
+```composer require super-eggs/laravel-admin-tinymce```
 
 然后
 

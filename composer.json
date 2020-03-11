@@ -1,5 +1,5 @@
 {
-    "name": "super-eggs/tinymce",
+    "name": "super-eggs/laravel-admin-tinymce",
     "description": "TinyMCE extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor"],
