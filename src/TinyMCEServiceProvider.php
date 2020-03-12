@@ -24,7 +24,7 @@ class TinyMCEServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole() && $assets = $extension->assets()) {
             $this->publishes(
                 [$assets => public_path('vendor/laravel-admin-ext/tinymce')],
-                'aravel-admin-tinymce'
+                'laravel-admin-tinymce'
             );
         }
 
