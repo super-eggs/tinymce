@@ -32,6 +32,7 @@ TinyMCE extension for laravel-admin
             ]
         ]
 ```
+更多配置: http://tinymce.ax-z.cn/  文档写的非常棒,清晰明了!! (感谢 莫若卿 写的中文文档.)
 
 
 
@@ -103,6 +104,7 @@ move_uploaded_file($temp['tmp_name'], $filetowrite);
 // { location : '/your/uploaded/image/file.jpg'}
 echo json_encode(array('location' => $filetowrite));
 ```
+> 引用自 http://tinymce.ax-z.cn/advanced/php-upload-handler.php
 
 ## License
 
