@@ -5,7 +5,7 @@ TinyMCE extension for laravel-admin
 
 ## 截图
 
-![截图演示](https://tva1.sinaimg.cn/large/00831rSTly1gcqectsfz1j31km0ckgmx.jpg)
+![截图演示](https://laravel-admin.org/storage/2020/03/12/9JrYt49kWVDtwlYVwbCEOjv6MWHI7hmWhkjW9zdc.png)
 
 ## 安装
 
