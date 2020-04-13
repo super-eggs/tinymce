@@ -23,12 +23,12 @@ class Editor extends Field
         $config = ltrim($config, "{");
 
         $this->script = <<<EOT
-        
-tinymce.init({
-selector: '#{$this->id}',
-language: 'zh_CN',
-$config
-});
+    tinymce.remove(); 
+    tinymce.init({
+    selector: '#{$this->id}',
+    language: 'zh_CN',
+    $config
+    });
 
 EOT;
         return parent::render();
